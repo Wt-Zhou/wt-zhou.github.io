@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University, where I am dedicated to developing trustworthy AI systems for real-world autonomous driving. 
 
-My research focuses on autonomous driving, safe reinforcement learning, contiual learning.
+My research interest includes autonomous driving, safe reinforcement learning, contiual learning.
 
 I earned my Ph.D. from the School of Vehicle and Mobility, Tsinghua University, advised by Professor Yang Diange. My thesis introduced an online continual learning planner for autonomous vehicles, addressing the challenge of ensuring system performance in long-tail cases. 
 
