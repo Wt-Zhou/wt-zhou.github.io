@@ -17,18 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University, where I am dedicated to developing trustworthy AI systems for real-world autonomous driving. My research focuses on data-driven planners(including end-to-end approaches), reinforcement learning, and continual learning.
+I am currently a Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University, where I am dedicated to developing trustworthy AI systems for real-world autonomous driving. 
 
-I earned my Ph.D. from the School of Vehicle and Mobility, Tsinghua University, advised by Professor Yang Diange. My doctoral research introduced an online continual learning planner for autonomous vehicles, addressing the challenge of ensuring system performance in long-tail cases. This technology was successfully demonstrated during the autonomous driving operations at the Shougang Park venue for the 2022 Beijing Winter Olympics.
+My research focuses on autonomous driving, safe reinforcement learning, contiual learning.
 
-Currently, I am collaborating with leading companies such as DiDi Autonomous Driving, Toyota, and Dongfeng to apply my research outcomes to mass-produced autonomous driving systems. In 2024, I led my team to win the Mcity AV Challenge in the United States. My contributions have also been recognized with the Outstanding Doctoral Paper Presentation Award at the China Society of Automotive Engineers Doctoral Forum and the prestigious Tsinghua University "Shuimu Scholar" Postdoctoral Fellowship.
+I earned my Ph.D. from the School of Vehicle and Mobility, Tsinghua University, advised by Professor Yang Diange. My thesis introduced an online continual learning planner for autonomous vehicles, addressing the challenge of ensuring system performance in long-tail cases. 
 
-If you are seeking any form of academic cooperation, please feel free to email me at zhouwt@mail.tsinghua.edu.cn. 
+My team and I are working with Didi Autonomous Driving, Toyota, and Dongfeng to buld large-scale trustworthy autonomous driving systems.
+
+Please feel free to email me at zhouwt@mail.tsinghua.edu.cn. 
 
 
 # 🔥 News
-- *2025.03*: Our preprint paper for low-cost large scale autonomous driving is now online.
-- *2024.09*: &nbsp;🎉🎉 We won the Mcity AV Challenge. The autonomous vehicle equipped with our algorithm did not collide during the entire competition.
+- *2025.03*: Our preprint paper for large-scale autonomous driving is now online.
+- *2024.10*: We organized a workshop about Multi-Agent Autonomous Systems in [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
+- *2024.09*: We organized a invited session about corner cases in autonomous driving in [ITSC 2024](https://ieee-itsc.org/2024/).
+- *2024.09*: &nbsp;🎉🎉 We won the [Mcity AV Challenge](https://mcity.umich.edu/av-challenge/). The autonomous vehicle equipped with our algorithm did not collide during the entire competition.
+- *2024.03*: Welcome to use our toolchains [SPIDER](https://github.com/Thu-ADLab/SPIDER) for building both data-driven and rule-based self-driving planners.
 - *2023.03*: Our paper on continual learning of autonomous vehicle was published in Nature Machine Intelligence. 
 
 # 📝 Publications 
