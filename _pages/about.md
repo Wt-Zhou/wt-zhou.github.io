@@ -29,7 +29,7 @@ Please feel free to email me at zhouwt@mail.tsinghua.edu.cn.
 
 
 # 🔥 News
-- *2025.03*: Our preprint paper for large-scale autonomous driving is now online.
+- *2025.03*: Our preprint paper "[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134)" is now online.
 - *2024.10*: We organized a workshop about Multi-Agent Autonomous Systems in [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
 - *2024.09*: We organized a invited session about corner cases in autonomous driving in [ITSC 2024](https://ieee-itsc.org/2024/).
 - *2024.09*: &nbsp;🎉🎉 We won the [Mcity AV Challenge](https://mcity.umich.edu/av-challenge/). The autonomous vehicle equipped with our algorithm did not collide during the entire competition.
