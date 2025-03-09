@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eefc6604-98de-4fa5-a368-b3cbdf6ee1d2)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -33,7 +33,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='images/dcp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='../images/dcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamically conservative self-driving planner for long-tail cases](https://arxiv.org/pdf/2305.07497)
@@ -47,7 +47,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='images/ubrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='../images/ubrl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identify, estimate and bound the uncertainty of reinforcement learning for autonomous driving](https://arxiv.org/pdf/2305.07487)
@@ -64,7 +64,7 @@ network fitting errors.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/nmi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='../images/nmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning](https://www.nature.com/articles/s42256-023-00610-y)
