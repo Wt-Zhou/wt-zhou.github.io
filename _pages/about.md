@@ -29,6 +29,8 @@ Please feel free to email me at zhouwt@mail.tsinghua.edu.cn.
 
 
 # 🔥 News
+- *2025.07*: We organized a workshop about Next-level of Self-driving Vehicles in Tsinghua University (Invited Talk: Hang Zhao from Tsinghua University, Hongyang Li from Hongkong University, Shaoshuai Shi from Didi, Junchi Yan from Shanghai Jiaotong University, Long Chen from Xiaomi EV, Xintao Yan from Hongkong University).
+- *2025.06*: Our paper "[DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/pdf/2506.16720)" is accepted by IROS 2025.
 - *2025.03*: Our preprint paper "[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134)" is now online.
 - *2024.10*: We organized a workshop about Multi-Agent Autonomous Systems in [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
 - *2024.09*: We organized a invited session about corner cases in autonomous driving in [ITSC 2024](https://ieee-itsc.org/2024/).
@@ -80,6 +82,9 @@ network fitting errors.
 - We present a dynamic confidence-aware reinforcement learning (DCARL) technology for guaranteed continuous improvement. Continuously improving means that more training always improves or maintains its current performance. Our technique enables performance improvement using the data collected during driving, and does not need a lengthy pre-training phase. 
 </div>
 </div>
+
+- [DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/pdf/2506.16720), **Weitao Zhou**, Bo Zhang, Zhong Cao, Xiang Li, Qian Cheng, Chunyang Liu, Yaqin Zhang, Diange Yang
+ **IROS 2025**
 
 - [Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134), Nanshan Deng, **Weitao Zhou**, , Bo Zhang, Junze Wen, Kun Jiang, Zhong Cao, Diange Yang, **Preprint**
 
