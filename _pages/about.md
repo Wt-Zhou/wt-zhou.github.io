@@ -29,7 +29,8 @@ Please feel free to email me at zhouwt@mail.tsinghua.edu.cn.
 
 
 # 🔥 News
-- *2025.07*: We organized a workshop about Next-level of Self-driving Vehicles in Tsinghua University (Invited Talk: Hang Zhao from Tsinghua University, Hongyang Li from Hongkong University, Shaoshuai Shi from Didi, Junchi Yan from Shanghai Jiaotong University, Long Chen from Xiaomi EV, Xintao Yan from Hongkong University).
+- *2025.09*: Our work on long-tail autonomous driving, developed at Tsinghua and deployed on Didi’s RoboTaxi, earned Didi’s top honor—the Gaia Lighthouse Outstanding Project Award—along with the employee-voted Most Popular Project Award. [News](https://mp.weixin.qq.com/s/KxPfIOW-O7xP4kJF8P119w)
+- *2025.07*: We organized [a workshop about Next-level of Self-driving Vehicles in Tsinghua University](https://mp.weixin.qq.com/s?__biz=MzUyNDEzMzkzMg==&mid=2247500932&idx=1&sn=49a48ba9864810ae2b7d2af386c0bf1f&chksm=fb0c22e5a957a64cbe673a6c5188a148bbb70fd084f01fc1a4580c4582b40ca56e793319bef8&scene=27) Invited Talk: Hang Zhao from Tsinghua University, Hongyang Li from Hongkong University, Shaoshuai Shi from Didi, Junchi Yan from Shanghai Jiaotong University, Long Chen from Xiaomi EV, Xintao Yan from Hongkong University. [Talk Videos](https://space.bilibili.com/3546965931461541?spm_id_from=333.1387.follow.user_card.click)
 - *2025.06*: Our paper "[DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/pdf/2506.16720)" is accepted by IROS 2025.
 - *2025.03*: Our preprint paper "[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134)" is now online.
 - *2024.10*: We organized a workshop about Multi-Agent Autonomous Systems in [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
