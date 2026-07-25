@@ -17,119 +17,188 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University, where I am dedicated to developing trustworthy AI systems for real-world autonomous driving. 
+I am the Co-founder and Chief Scientist at [SimpleAI](https://cloud.simpleai.tech/simple_world_lab/), where I lead research on world models and continual learning for general embodied intelligence. We are building robots that learn continuously through interaction, understand the physical world, and generalize across tasks, environments, and embodiments, with an initial focus on next-generation home robots.
 
-My research interest includes autonomous driving, safe reinforcement learning, contiual learning.
+Previously, I was a Shuimu Scholar and Postdoctoral Researcher at the [School of Vehicle and Mobility, Tsinghua University](https://eng.svm.tsinghua.edu.cn/), where I also received my Ph.D. under the supervision of [Prof. Diange Yang](https://eng.svm.tsinghua.edu.cn/info/1025/1153.htm). My earlier research treated autonomous driving as a safety-critical embodied AI problem, spanning data loops, model and policy training, closed-loop evaluation, and online improvement.
 
-I earned my Ph.D. from the School of Vehicle and Mobility, Tsinghua University, advised by Professor Yang Diange. My thesis introduced an online continual learning planner for autonomous vehicles, addressing the challenge of ensuring system performance in long-tail cases. 
+Our work on continual improvement for self-driving cars, published in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00610-y), was applied in the [autonomous-driving demonstration for the 2022 Beijing Winter Olympics](https://openicv.svm.tsinghua.edu.cn/info/xwzx/411), which operated with zero accidents. Related systems have been deployed at scale at [Didi Autonomous Driving](https://www.didiglobal.com/science/intelligent-driving) and [Toyota](https://global.toyota/en/), with research collaborations involving [Baidu Apollo](https://www.apollo.auto/) and [XPeng](https://www.xpeng.com/).
 
-My team and I are working with Didi Autonomous Driving, Toyota, and Dongfeng to buld large-scale trustworthy autonomous driving systems.
+Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi’s [Gaia Lighthouse Outstanding Project Award and Most Popular Project Award](https://mp.weixin.qq.com/s/KxPfIOW-O7xP4kJF8P119w); and winning the [Mcity AV Challenge](https://mcity.umich.edu/av-challenge/), where our autonomous vehicle completed the competition without a collision.
 
-Please feel free to email me at zhouwt@mail.tsinghua.edu.cn. 
+<p class="intro-contact">Follow our latest work at <a href="https://cloud.simpleai.tech/simple_world_lab/">Simple World Lab</a>. <strong>We are hiring</strong>—please reach out if you are interested in joining us. <strong>Email:</strong> zhouwt801 [at] gmail [dot] com.</p>
 
 
 # 🔥 News
-- *2025.09*: Our work on long-tail autonomous driving, developed at Tsinghua and deployed on Didi’s RoboTaxi, earned Didi’s top honor—the Gaia Lighthouse Outstanding Project Award—along with the employee-voted Most Popular Project Award. [News](https://mp.weixin.qq.com/s/KxPfIOW-O7xP4kJF8P119w)
-- *2025.07*: We organized [a workshop about Next-level of Self-driving Vehicles in Tsinghua University](https://mp.weixin.qq.com/s?__biz=MzUyNDEzMzkzMg==&mid=2247500932&idx=1&sn=49a48ba9864810ae2b7d2af386c0bf1f&chksm=fb0c22e5a957a64cbe673a6c5188a148bbb70fd084f01fc1a4580c4582b40ca56e793319bef8&scene=27) Invited Talk: Hang Zhao from Tsinghua University, Hongyang Li from Hongkong University, Shaoshuai Shi from Didi, Junchi Yan from Shanghai Jiaotong University, Long Chen from Xiaomi EV, Xintao Yan from Hongkong University. [Talk Videos](https://space.bilibili.com/3546965931461541?spm_id_from=333.1387.follow.user_card.click)
-- *2025.06*: Our paper "[DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/pdf/2506.16720)" is accepted by IROS 2025.
-- *2025.03*: Our preprint paper "[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134)" is now online.
-- *2024.10*: We organized a workshop about Multi-Agent Autonomous Systems in [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
-- *2024.09*: We organized a invited session about corner cases in autonomous driving in [ITSC 2024](https://ieee-itsc.org/2024/).
-- *2024.09*: &nbsp;🎉🎉 We won the [Mcity AV Challenge](https://mcity.umich.edu/av-challenge/). The autonomous vehicle equipped with our algorithm did not collide during the entire competition.
-- *2024.03*: Welcome to use our toolchains [SPIDER](https://github.com/Thu-ADLab/SPIDER) for building both data-driven and rule-based self-driving planners.
-- *2023.03*: Our paper on continual learning of autonomous vehicle was published in Nature Machine Intelligence. 
+- **2026.07:** I am co-organizing the [Safe World Models for Trustworthy Embodied AI](https://trustworthy-world-models.github.io/ECCV2026/) workshop at **ECCV 2026**, bringing together researchers working on reliable and safe world models for embodied agents.
+- **2026.07:** We are excited to share two new embodied-AI studies: [Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256) and [SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects](https://arxiv.org/abs/2607.04234).
+- **2026.06:** I am co-organizing the [Physical World Models for Scaling Embodied AI](https://physical-world-models.github.io/IROS2026/) workshop at **IROS 2026**, focusing on how physical world models can help scale embodied intelligence.
+- **2026.06:** Our paper [Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries for Zero-Shot Policy Adaptation](https://arxiv.org/abs/2606.02280) will appear at **ICML 2026**.
+- **2026.05:** Happy to share our new paper [GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation](https://arxiv.org/abs/2605.20752), which explores efficient 3D world modeling for robot learning.
+- **2026.03:** Our paper [CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation](https://arxiv.org/abs/2603.21104) is now online.
+- **2025.09:** Our work on long-tail autonomous driving, developed at Tsinghua and deployed on Didi’s RoboTaxi, received Didi’s top honor—the **Gaia Lighthouse Outstanding Project Award**—as well as the employee-voted **Most Popular Project Award**. [News](https://mp.weixin.qq.com/s/KxPfIOW-O7xP4kJF8P119w)
+- **2025.07:** We organized the [Next Generation of Self-Driving Vehicles](https://mp.weixin.qq.com/s?__biz=MzUyNDEzMzkzMg==&mid=2247500932&idx=1&sn=49a48ba9864810ae2b7d2af386c0bf1f&chksm=fb0c22e5a957a64cbe673a6c5188a148bbb70fd084f01fc1a4580c4582b40ca56e793319bef8&scene=27) forum at Tsinghua University, featuring invited speakers from academia and industry. [Talk videos](https://space.bilibili.com/3546965931461541)
+- **2025.06:** Our paper [DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/abs/2506.16720) was accepted by **IROS 2025**.
+- **2025.03:** Our paper [Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/abs/2502.21134) is now online.
+- **2024.10:** We organized the [Multi-Agent Autonomous Systems Workshop](https://mp.weixin.qq.com/s/S15YL6gt809I3XObmFdvrA) at **ECCV 2024**.
+- **2024.09:** We organized the invited session [Driving the Edge: Addressing Corner Cases in Self-Driving Vehicles](https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=87&Number=1154) at **ITSC 2024**.
+- **2024.09:** We won the [Mcity AV Challenge](https://mcity.umich.edu/av-challenge/), and our autonomous vehicle completed the entire competition without a collision.
+- **2024.03:** We released [SPIDER](https://github.com/Thu-ADLab/SPIDER), an open-source toolkit for building reusable data-driven and rule-based self-driving planners.
+- **2023.03:** Our work [Continuous Improvement of Self-Driving Cars Using Dynamic Confidence-Aware Reinforcement Learning](https://www.nature.com/articles/s42256-023-00610-y) was published in **Nature Machine Intelligence**.
+{: .news-list}
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='../images/dcp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<p class="publication-intro">Selected work is organized by research theme; see my <a href="https://scholar.google.com/citations?user=1H5PwZkAAAAJ&hl=en">Google Scholar profile</a> for the complete, up-to-date list.</p>
 
-[Dynamically conservative self-driving planner for long-tail cases](https://arxiv.org/pdf/2305.07497)
+<section class="publication-group">
+<h2>Embodied AI &amp; World Models</h2>
 
-**Weitao Zhou**, Zhong Cao, Nanshan Deng, Xiaoyu Liu, Kun Jiang, Diange Yang
+<article class="publication-item">
+<div class="publication-venue">2026 · RSS SemRob Workshop</div>
+<h3><a href="https://arxiv.org/abs/2607.06256">Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition</a></h3>
+<p>Ke Rui, Yushen Zuo, Jiawei Wang, Haoran Jia, Jinming Ma, <strong>Weitao Zhou</strong>, Minglei Li</p>
+</article>
 
+<article class="publication-item">
+<div class="publication-venue">2026 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2607.04234">SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects</a></h3>
+<p>Bowen Jing, Mingxin Wang, Ruiyang Hao, Chenchen Ge, Hanwen Shen, Junjie He, Yang Cui, Yiming Hou, <strong>Weitao Zhou</strong>, et al.</p>
+</article>
 
-- This work proposes a method to automatically adjust the conservative level of self-driving vehicles according to each case’s “long-tail” rate, which provides a technique to guarantee 
- performance in unexpected driving cases without resorting to a global conservative setting. 
-</div>
-</div>
+<article class="publication-item">
+<div class="publication-venue">2026 · ICML</div>
+<h3><a href="https://arxiv.org/abs/2606.02280">Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries for Zero-Shot Policy Adaptation</a></h3>
+<p>Zhiming Xu, <strong>Weitao Zhou</strong>, Xianghui Pan, Nanshan Deng, Chengju Liu, Qijun Chen, Chenpeng Yao</p>
+</article>
 
+<article class="publication-item">
+<div class="publication-venue">2026 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2605.20752">GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation</a></h3>
+<p>Zijian Zhang, Yuqing Jiang, Qian Cheng, Xiaofan Li, Si Liu, Ding Zhao, Ping Luo, <strong>Weitao Zhou</strong>, Haibao Yu</p>
+</article>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans-ITS</div><img src='../images/ubrl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<article class="publication-item">
+<div class="publication-venue">2026 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2603.21104">CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation</a></h3>
+<p>Bowen Jing, Ruiyang Hao, <strong>Weitao Zhou</strong>, Haibao Yu</p>
+</article>
+</section>
 
-[Identify, estimate and bound the uncertainty of reinforcement learning for autonomous driving](https://arxiv.org/pdf/2305.07487)
+<section class="publication-group">
+<h2>Continual Learning &amp; Reinforcement Learning</h2>
 
-**Weitao Zhou**, Zhong Cao, Nanshan Deng, Kun Jiang, Diange Yang
+<article class="publication-item">
+<div class="publication-venue">2026 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2606.29820">Dual-Flow Reinforcement Learning with State-Aware Exploration</a></h3>
+<p>Qijun Li, Zheng Fu, Qi Song, Yifei He, <strong>Weitao Zhou</strong>, Kun Jiang, Diange Yang</p>
+</article>
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
+<article class="publication-item">
+<div class="publication-venue">2025 · IROS</div>
+<h3><a href="https://arxiv.org/abs/2506.16720">DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy</a></h3>
+<p><strong>Weitao Zhou</strong>, Bo Zhang, Zhong Cao, Xiang Li, Qian Cheng, Chunyang Liu, Yaqin Zhang, Diange Yang</p>
+</article>
 
--  The proposed planner can estimate and constrain performance uncertainty by itself, which quantifies potential performance drop due to insufficient training data or
-network fitting errors. 
-</div>
-</div>
+<article class="publication-item">
+<div class="publication-venue">2023 · Nature Machine Intelligence</div>
+<h3><a href="https://www.nature.com/articles/s42256-023-00610-y">Continuous Improvement of Self-Driving Cars Using Dynamic Confidence-Aware Reinforcement Learning</a></h3>
+<p>Zhong Cao, Kun Jiang, <strong>Weitao Zhou</strong>, Shaobing Xu, Huei Peng, Diange Yang · <a href="https://github.com/zhcao92/DCARL">Project</a></p>
+</article>
 
+<article class="publication-item">
+<div class="publication-venue">2023 · IEEE T-ITS</div>
+<h3><a href="https://arxiv.org/abs/2305.07487">Identify, Estimate and Bound the Uncertainty of Reinforcement Learning for Autonomous Driving</a></h3>
+<p><strong>Weitao Zhou</strong>, Zhong Cao, Nanshan Deng, Kun Jiang, Diange Yang</p>
+</article>
+</section>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='../images/nmi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<section class="publication-group">
+<h2>Autonomous Driving</h2>
 
-[Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning](https://www.nature.com/articles/s42256-023-00610-y)
+<article class="publication-item">
+<div class="publication-venue">2025 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2502.21134">Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving</a></h3>
+<p>Nanshan Deng, <strong>Weitao Zhou</strong>, Bo Zhang, Junze Wen, Kun Jiang, Zhong Cao, Diange Yang</p>
+</article>
 
- Zhong Cao, Kun Jiang, **Weitao Zhou**, Shaobing Xu, Huei Peng, Diange Yang
+<article class="publication-item">
+<div class="publication-venue">2024 · ITSC</div>
+<h3><a href="https://github.com/Thu-ADLab/SPIDER">SPIDER: Self-Driving Planners and Intelligent Decision-Making Engines with Reusability</a></h3>
+<p>Zelin Qian, Kun Jiang, Zhong Cao, Kai Qian, Yunkang Xu, <strong>Weitao Zhou</strong>, Diange Yang</p>
+</article>
 
-[**Project**](https://github.com/zhcao92/DCARL) 
-- We present a dynamic confidence-aware reinforcement learning (DCARL) technology for guaranteed continuous improvement. Continuously improving means that more training always improves or maintains its current performance. Our technique enables performance improvement using the data collected during driving, and does not need a lengthy pre-training phase. 
-</div>
-</div>
+<article class="publication-item">
+<div class="publication-venue">2023 · IEEE T-ITS</div>
+<h3><a href="https://arxiv.org/abs/2305.07497">Dynamically Conservative Self-Driving Planner for Long-Tail Cases</a></h3>
+<p><strong>Weitao Zhou</strong>, Zhong Cao, Nanshan Deng, Xiaoyu Liu, Kun Jiang, Diange Yang</p>
+</article>
 
-- [DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy](https://arxiv.org/pdf/2506.16720), **Weitao Zhou**, Bo Zhang, Zhong Cao, Xiang Li, Qian Cheng, Chunyang Liu, Yaqin Zhang, Diange Yang
- **IROS 2025**
+<article class="publication-item">
+<div class="publication-venue">2022 · ITSC</div>
+<h3><a href="https://arxiv.org/abs/2207.00788">Long-Tail Prediction Uncertainty Aware Trajectory Planning for Self-Driving Vehicles</a></h3>
+<p><strong>Weitao Zhou</strong>, Zhong Cao, Yunkang Xu, Nanshan Deng, Xiaoyu Liu, Kun Jiang, Diange Yang</p>
+</article>
 
-- [Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](https://arxiv.org/pdf/2502.21134), Nanshan Deng, **Weitao Zhou**, , Bo Zhang, Junze Wen, Kun Jiang, Zhong Cao, Diange Yang, **Preprint**
-
-- [Long-Tail Prediction Uncertainty Aware Trajectory Planning for Self-driving Vehicles](https://arxiv.org/pdf/2207.00788), **Weitao Zhou**, Zhong Cao, Yunkang Xu, Nanshan Deng, Xiaoyu Liu, Kun Jiang, Diange Yang, **ITSC 2024**
-
-- [An End-to-End Autonomous Driving Pre-trained Transformer Model for Multi-Behavior-Optimal Trajectory Generation], Zelin Qian, Kun Jiang,  **Weitao Zhou**, Junze Wen, Cheng Jing, Zhong Cao, Diange Yang, **ITSC 2023**
-
-- [Integrating Deep Reinforcement Learning with Optimal Trajectory Planner for Automated Driving](https://www.researchgate.net/profile/Weitao-Zhou-4/publication/347957240_Integrating_Deep_Reinforcement_Learning_with_Optimal_Trajectory_Planner_for_Automated_Driving/links/632f0f5686b22d3db4dbdf2b/Integrating-Deep-Reinforcement-Learning-with-Optimal-Trajectory-Planner-for-Automated-Driving.pdf), **Weitao Zhou**,  Kun Jiang, Zhong Cao, Nanshan Deng, Diange Yang, **ITSC 2020**
-
-- [Autonomous driving policy continual learning with one-shot disengagement case], Zhong Cao, Xiang Li, Kun Jiang, **Weitao Zhou**, Xiaoyu Liu, Nanshan Deng, Diange Yang, **IEEE Trans-IV**
-
-- [LiDAR-based Object Detection Failure Tolerated Autonomous Driving Planning System], Zhong Cao, Jiaxin Liu, **Weitao Zhou**, Xinyu Jiao, Diange Yang, **IV 2021**
-
-- [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning], Nanshan Deng, Kun Jiang, Zhong Cao, **Weitao Zhou**, Diange Yang, **CICTP 2021**
-
-- [Lane Change Intention Recognition for Intelligent Connected Vehicle Using Trajectory Prediction], Shengjie Kou, Kun Jiang, Weiguang Yu, Ruidong Yan, **Weitao Zhou**, Mengmeng Yang, Diange Yang, **CICTP 2020**
-
-- [Adapt the Driving Policy to Local Traffic before Entering the New Area], Nanshan Deng,  Zhong Cao,  **Weitao Zhou**, Kunjiang, Diange Yang, **ITSC 2021**
-
-
-
-
-<!--
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.09 - 2023.06*,  PhD, Tsinghua University, Beijing.
-- *2016.09 - 2019.06*,  Master, Beihang University, Beijing. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+<article class="publication-item">
+<div class="publication-venue">2020 · ITSC</div>
+<h3><a href="https://www.researchgate.net/profile/Weitao-Zhou-4/publication/347957240_Integrating_Deep_Reinforcement_Learning_with_Optimal_Trajectory_Planner_for_Automated_Driving/links/632f0f5686b22d3db4dbdf2b/Integrating-Deep-Reinforcement-Learning-with-Optimal-Trajectory-Planner-for-Automated-Driving.pdf">Integrating Deep Reinforcement Learning with Optimal Trajectory Planner for Automated Driving</a></h3>
+<p><strong>Weitao Zhou</strong>, Kun Jiang, Zhong Cao, Nanshan Deng, Diange Yang</p>
+</article>
+</section>
 <span class='anchor' id='-Academic-Service'></span>
 # 💬 Academic Service
-- **Reviewer**, IEEE T-ITS, IEEE T-IV, ICRA, ITSC, IROS, ECCV.
-- **Program Committee**, ITSC 2024 Corner Cases in Self-driving Vehicles Invited Session, ECCV 2024 Multi-Agent Autonomous Systems Workshop, SAECCE Annual Conference High Precision Map Forum.
+- **Reviewer:** Nature Machine Intelligence, Nature Computational Science, IEEE T-ITS, IEEE T-IV, ICRA, ITSC, IROS, ECCV, NeurIPS, ICML, CVPR.
+- **Workshop Organizer:**
+    - **ECCV 2026** — [Safe World Models for Trustworthy Embodied AI](https://trustworthy-world-models.github.io/ECCV2026/)
+    - **IROS 2026** — [Physical World Models for Scaling Embodied AI](https://physical-world-models.github.io/IROS2026/)
+    - **ECCV 2024** — [Multi-Agent Autonomous Systems Workshop](https://mp.weixin.qq.com/s/S15YL6gt809I3XObmFdvrA)
+    - **ITSC 2024 · Invited Session** — [Driving the Edge: Addressing Corner Cases in Self-Driving Vehicles](https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=87&Number=1154)
+- **Forum Organizer:**
+    - **Tsinghua University · 2025** — [Next Generation of Self-Driving Vehicles](https://mp.weixin.qq.com/s?__biz=MzUyNDEzMzkzMg==&mid=2247500932&idx=1&sn=49a48ba9864810ae2b7d2af386c0bf1f&chksm=fb0c22e5a957a64cbe673a6c5188a148bbb70fd084f01fc1a4580c4582b40ca56e793319bef8&scene=27)
+    - **SAECCE 2023** — [Autonomous-Driving Map Updates and Safety Compliance](https://www.sohu.com/a/733306124_620780)
+{: .academic-service-list}
 
 
-# 💻 Internships
-- *2023.04 - 2023.10*, [Didi Autonomous Driving](https://www.didiglobal.com/science/intelligent-driving), China.
-- *2018.09 - 2019.02*, Baidu Apollo, China.
-- *2017.06 - 2018.03*, Idriverplus, China.
+# 💼 Experience
 
+<section class="experience-list">
+<article class="experience-item">
+<div class="experience-period">Present</div>
+<div class="experience-content">
+<h3>Co-founder &amp; Chief Scientist · SimpleAI</h3>
+<p>Leading research on world models and continual learning for general embodied intelligence and next-generation home robots.</p>
+</div>
+</article>
 
+<article class="experience-item">
+<div class="experience-period">Jun. 2023 – Jun. 2026</div>
+<div class="experience-content">
+<h3>Postdoctoral Researcher · Tsinghua University</h3>
+<p>Shuimu Scholar at the School of Vehicle and Mobility, developing continual-learning and trustworthy autonomous-driving systems.</p>
+</div>
+</article>
+
+<article class="experience-item">
+<div class="experience-period">Apr. – Oct. 2023</div>
+<div class="experience-content">
+<h3>Research Intern · <a href="https://www.didiglobal.com/science/intelligent-driving">Didi Autonomous Driving</a></h3>
+<p>Conducted research on reinforcement learning and long-tail autonomous-driving policy improvement.</p>
+</div>
+</article>
+
+<article class="experience-item">
+<div class="experience-period">Sep. 2018 – Feb. 2019</div>
+<div class="experience-content">
+<h3>Research Intern · <a href="https://www.apollo.auto/">Baidu Apollo</a></h3>
+<p>Worked on motion planning and decision-making for autonomous driving.</p>
+</div>
+</article>
+
+<article class="experience-item">
+<div class="experience-period">Jun. 2017 – Mar. 2018</div>
+<div class="experience-content">
+<h3>Research Intern · <a href="https://www.velobotics.cn/Home.html">Idriverplus</a></h3>
+<p>Worked on planning and control for autonomous vehicles.</p>
+</div>
+</article>
+</section>
