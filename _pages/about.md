@@ -29,6 +29,7 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didiâ€
 
 
 # ðŸ”¥ News
+- **2026.07:** We are excited to introduce [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895). HiFi-UMI enables policies trained solely on portable, robot-free demonstrations to deploy directly on real robots, and we are releasing a **2,000-hour high-fidelity dataset** to support scalable robot learning.
 - **2026.07:** I am co-organizing the [Safe World Models for Trustworthy Embodied AI](https://trustworthy-world-models.github.io/ECCV2026/) workshop at **ECCV 2026**, bringing together researchers working on reliable and safe world models for embodied agents.
 - **2026.07:** We are excited to share two new embodied-AI studies: [Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256) and [SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects](https://arxiv.org/abs/2607.04234).
 - **2026.06:** I am co-organizing the [Physical World Models for Scaling Embodied AI](https://physical-world-models.github.io/IROS2026/) workshop at **IROS 2026**, focusing on how physical world models can help scale embodied intelligence.
