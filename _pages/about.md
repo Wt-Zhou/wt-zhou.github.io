@@ -29,6 +29,7 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi�
 
 
 # 🔥 News
+- **2026.08:** We are excited to share [EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration](https://github.com/EgoRecovery/EgoRecovery), a collaboration with [Prof. Xiaosong Jia](https://jiaxiaosong1002.github.io/)'s team at **Fudan University**. EgoRecovery learns robust failure-recovery behaviors from scalable egocentric human demonstrations through a shared corrective-intent space and a recovery gate.
 - **2026.07:** We are excited to introduce [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895). HiFi-UMI enables policies trained solely on portable, robot-free demonstrations to deploy directly on real robots, and we are releasing a **2,000-hour high-fidelity dataset** to support scalable robot learning.
 - **2026.07:** I am co-organizing the [Safe World Models for Trustworthy Embodied AI](https://trustworthy-world-models.github.io/ECCV2026/) workshop at **ECCV 2026**, bringing together researchers working on reliable and safe world models for embodied agents.
 - **2026.07:** We are excited to share two new embodied-AI studies: [Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256) and [SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects](https://arxiv.org/abs/2607.04234).
@@ -53,6 +54,12 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi�
 
 <section class="publication-group">
 <h2>Embodied AI &amp; World Models</h2>
+
+<article class="publication-item">
+<div class="publication-venue">2026 · Preprint</div>
+<h3><a href="https://arxiv.org/abs/2607.19745">EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration</a></h3>
+<p>Zuhao Ge, Yuchen Zhou, <strong>Weitao Zhou</strong>, Minglei Li, Xinyu Li, Chao Wu, Hanwen Zhao, Haotian Wang, Zuxuan Wu, Xiaosong Jia, Yu-Gang Jiang · <a href="https://github.com/EgoRecovery/EgoRecovery">Project</a></p>
+</article>
 
 <article class="publication-item">
 <div class="publication-venue">2026 · RSS SemRob Workshop</div>
