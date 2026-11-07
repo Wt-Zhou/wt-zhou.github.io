@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Co-founder and Chief Scientist at [SimpleAI](https://cloud.simpleai.tech/simple_world_lab/), where I lead research on world models and continual learning for general embodied intelligence. We are building robots that learn continuously through interaction, understand the physical world, and generalize across tasks, environments, and embodiments, with an initial focus on next-generation home robots.
+I am the Chief Scientist at [SimpleAI](https://cloud.simpleai.tech/simple_world_lab/), where I lead research on world models and continual learning for general embodied intelligence. We are building robots that learn continuously through interaction, understand the physical world, and generalize across tasks, environments, and embodiments, with an initial focus on next-generation home robots.
 
 Previously, I was a Shuimu Scholar and Postdoctoral Researcher at the [School of Vehicle and Mobility, Tsinghua University](https://eng.svm.tsinghua.edu.cn/), where I also received my Ph.D. under the supervision of [Prof. Diange Yang](https://eng.svm.tsinghua.edu.cn/info/1025/1153.htm). My earlier research treated autonomous driving as a safety-critical embodied AI problem, spanning data loops, model and policy training, closed-loop evaluation, and online improvement.
 
@@ -29,6 +29,7 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi鈥
 
 
 # 馃敟 News
+- **2026.11:** We are excited to share our new preprint, [LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation?](https://arxiv.org/pdf/2610.34527). We evaluate zero-shot manipulation across **16 household tasks** in matched simulation and real-world environments, finding that task completion becomes much harder when a robot must regulate force and re-establish contact during an operation.
 - **2026.10:** We are excited to share [Beyond the Score: Early Evaluations of GPT-6-Astra as a Robot Critic](https://cloud.simpleai.tech/simple-world-lab/beyond-the-score/en.html#takeaways), our new research report on how general-purpose multimodal models evaluate robot behavior. **GPT-6-Astra** shows strong zero-shot trajectory ranking and pairwise preference judgments, while our analysis also reveals where task-success recognition and failure diagnosis still fall short. We hope these findings help make feedback for robot learning more reliable.
 - **2026.10:** We successfully organized the [Physical World Models for Scaling Embodied AI](https://physical-world-models.github.io/IROS2026/) workshop at **IROS 2026** in Pittsburgh, featuring invited talks by **Jiajun Wu** (Stanford), **Rudra P.K. Poudel** (Toshiba Europe), **Lian Ruan** (X Square Robot), **Mingle Li** (SimpleAI), **Abhinav Valada** (University of Freiburg), **Ding Zhao** and **Katerina Fragkiadaki** (Carnegie Mellon University). Alongside the workshop, we hosted the [WorldArena 2.0 Challenge](https://iros2026challenge.world-arena.ai/), benchmarking world models across video quality, reinforcement-learning environments, and real-world WAM manipulation.
 - **2026.09:** We are excited to share a new series of works on **World-Action Models (WAMs)**: [GaussianWAM](https://arxiv.org/abs/2608.24714) distills geometry and semantics from 3D Gaussian fields into WAM representations; [GaussianDream++](https://arxiv.org/abs/2608.25659) introduces efficient 3D Gaussian world modeling for robotic manipulation; and [KnockGS](https://arxiv.org/abs/2608.27365) calibrates physical Gaussian representations through interaction. Together, they explore how 3D Gaussian representations can provide geometric, semantic, dynamic, and physical grounding for scalable robot learning.
@@ -56,6 +57,12 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi鈥
 
 <section class="publication-group">
 <h2>Embodied AI &amp; World Models</h2>
+
+<article class="publication-item">
+<div class="publication-venue">2026 路 Preprint</div>
+<h3><a href="https://arxiv.org/pdf/2610.34527">LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark</a></h3>
+<p>Haibao Yu, Jiaqi Meng, Zijian Zhang, Bowen Jing, Lei Yang, Yue Hu, Chenchen Ge, Yiming Hou, Chenbo Xin, Dawen Ye, Haifang Qin, Jin Li, <strong>Weitao Zhou</strong>, et al.</p>
+</article>
 
 <article class="publication-item">
 <div class="publication-venue">2026 路 Preprint</div>
@@ -175,7 +182,7 @@ Additional highlights include publications at ICML, IROS, and IEEE T-ITS; Didi鈥
 <article class="experience-item">
 <div class="experience-period">Present</div>
 <div class="experience-content">
-<h3>Co-founder &amp; Chief Scientist 路 SimpleAI</h3>
+<h3>Chief Scientist 路 SimpleAI</h3>
 <p>Leading research on world models and continual learning for general embodied intelligence and next-generation home robots.</p>
 </div>
 </article>
